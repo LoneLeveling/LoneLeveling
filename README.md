@@ -9,7 +9,7 @@
   - 🛠  Languages and Tools :
     
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/95d0d49d-5057-4b56-8c13-004161f3244f)
-![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/aeb65a24-8053-4cb9-94b6-92955f011f41)
+![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/0e70ee86-996e-4e17-88b2-24e6e186fa7c)
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/5f4f7a54-b702-4c6d-8192-a82d61619318)
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/03e7e069-da8d-4d46-9669-b0a77023cb85)
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/dff48c99-c253-4702-ae68-ea2beba79551)
