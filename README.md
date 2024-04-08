@@ -12,7 +12,8 @@
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/95c4744b-4c15-43db-8303-2f7a86da1ab1)
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/b70bb855-f8d8-488f-b4a0-abfa70244e86)
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/b0f24d27-d4ac-49a5-b813-0d7c6a554751)
-![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/dff48c99-c253-4702-ae68-ea2beba79551)
+![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/6ae1138b-5802-43f9-b5b7-a50b05210b70)
+
 
 
 
