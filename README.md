@@ -7,6 +7,7 @@
   - [Discord](https://discordapp.com/users/brawd375)
  
   - 🛠  Languages and Tools :
+![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/95d0d49d-5057-4b56-8c13-004161f3244f)
 
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/2ff429ec-ac68-4b2f-a311-75757b766653)
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/aeb65a24-8053-4cb9-94b6-92955f011f41)
