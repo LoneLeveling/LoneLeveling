@@ -5,6 +5,9 @@
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/loneLeveling375)
   - [Discord](https://discordapp.com/users/brawd375)
+ 
+  - 🛠  Languages and Tools :
+Kubernetes  Go  Docker  Bash  Linux 
 
 
 
