@@ -6,5 +6,5 @@
   - [Twitter](https://twitter.com/loneLeveling375)
   - [Discord](https://discordapp.com/users/brawd375)
 
-<img width="478" alt="image" src="https://github.com/LoneLeveling/LoneLeveling/assets/156454751/3077a9a5-4480-4903-b81f-cd2b7d1ae4f2">
+
 
