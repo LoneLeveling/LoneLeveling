@@ -1,5 +1,5 @@
 - 👋 Hi, Abhi375 here🙂✌🏼
-- 👀 I’m interested in Java ☕, Spring Boot 🌱, DevOps 🛠️, and Cloud Tech ☁️.
+- 👀 I’m Into Java ☕, Spring Boot 🌱, DevOps 🛠️, and Cloud Tech ☁️.
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA) and DevOps practices.
 - 💞️ I’m looking to connect with people who share similar interests.
 - 📫 How to reach me:
