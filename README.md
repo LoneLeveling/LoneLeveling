@@ -7,7 +7,9 @@
   - [Discord](https://discordapp.com/users/brawd375)
  
   - 🛠  Languages and Tools :
-   
+  <p align="center">
+  <img src="images/go-banner.png" alt="Go Banner" width="100%">
+</p>
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/59c31ce6-a3df-48d1-abf6-f2000c87da83)
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/95c4744b-4c15-43db-8303-2f7a86da1ab1)
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/b70bb855-f8d8-488f-b4a0-abfa70244e86)
