@@ -14,7 +14,8 @@
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/b0f24d27-d4ac-49a5-b813-0d7c6a554751)
 <img width="76" height="83" alt="image" src="https://github.com/user-attachments/assets/5b701e88-fd76-4e06-85a7-a2138c325bf6" />
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/6ae1138b-5802-43f9-b5b7-a50b05210b70)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoneLeveling&show_icons=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoneLeveling&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoneLeveling&layout=compact)
 
 
