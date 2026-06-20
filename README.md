@@ -1,12 +1,24 @@
-- 👋 Hi, Abhishek Sharma here🙂✌🏼
-- 👀 I’m Into Java ☕, Spring Boot 🌱, DevOps 🛠️, and Cloud Tech ☁️.
-- 🌱 Currently learning Go, Data Structures & Algorithms (DSA), and DevOps practices.
-- 💞️ I’m looking to connect with people who share similar interests.
-- 📫 How to reach me:
+👋 Hi, I'm Abhishek Sharma
+
+🚀 Building Skills in Java, Go, DevOps & Cloud Technologies
+
+💻 About Me
+☕ Strong interest in Java and Spring Boot development
+⚙️ Exploring DevOps, Cloud, and Automation technologies
+🌱 Currently learning Go, Git, Jenkins, Docker and Kubernetes
+📚 Practicing Data Structures & Algorithms (DSA)
+🎯 Growing my expertise in Java, Go, DevOps, and Cloud technologies one project at a time
+🤝 Open to connecting with developers, DevOps engineers, and tech enthusiasts
+
+🛣️ Current Learning Roadmap
+Go → Git → Jenkins → Docker → Kubernetes → Cloud → CI/CD Projects
+
+
+  📫 How to reach me:
   - [Twitter](https://twitter.com/loneLeveling375)
   - [Discord](https://discordapp.com/users/brawd375)
  
-  - 🛠  Languages and Tools :
+🛠️ Languages & Tools
 
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/59c31ce6-a3df-48d1-abf6-f2000c87da83)
 ![image](https://github.com/LoneLeveling/LoneLeveling/assets/156454751/95c4744b-4c15-43db-8303-2f7a86da1ab1)
