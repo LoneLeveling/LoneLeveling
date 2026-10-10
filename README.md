@@ -29,7 +29,7 @@ Go → Git → Jenkins → Docker → Kubernetes → Cloud → CI/CD Projects
 <img width="138" height="127" alt="image" src="https://github.com/user-attachments/assets/7db18628-da58-4dc1-91a2-a2d2e5734258" />
 <img width="480" height="220" alt="image" src="https://github.com/user-attachments/assets/2a65f9a1-95c7-42b6-bad8-f091922a6760" />
 <img width="235" height="149" alt="image" src="https://github.com/user-attachments/assets/719823e8-1f85-4171-90b3-b09029dd15b9" />
-<img width="235" height="200" alt="image" src="https://github.com/user-attachments/assets/ab9697bc-f576-4853-bab0-b1f8d82b3782" />
+<img width="480" height="274" alt="image" src="https://github.com/user-attachments/assets/959a9e92-7036-4c48-a984-66cddc81ba89" />
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoneLeveling&show_icons=true)
