@@ -30,6 +30,7 @@ Go → Git → Jenkins → Docker → Kubernetes → Cloud → CI/CD Projects
 <img width="259" height="130" alt="image" src="https://github.com/user-attachments/assets/d4d350ec-f9cc-4c77-bcfa-526180e7974f" />
 <img width="235" height="149" alt="image" src="https://github.com/user-attachments/assets/719823e8-1f85-4171-90b3-b09029dd15b9" />
 <img width="480" height="274" alt="image" src="https://github.com/user-attachments/assets/959a9e92-7036-4c48-a984-66cddc81ba89" />
+<img width="481" height="175" alt="image" src="https://github.com/user-attachments/assets/d942166b-21df-4415-b1d2-fc638e81eef0" />
 
 
 
